@@ -24,6 +24,3 @@ https://en.support.wordpress.com/menus/social-links-menu/
 
 Updates: 9/2017
 
-1.0.4
-Removed old theme tags
-Fixed theme text-domain
