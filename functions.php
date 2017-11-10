@@ -47,7 +47,7 @@ function stacker_fallback_menu()
 if ( ! isset( $content_width ) ) $content_width = 900;
 
 /**
- * Replaces "[...]" (appended to automatically generated excerpts) with an ellipsis) and sets character length to 35
+ * Replaces "[....]" (appended to automatically generated excerpts) with an ellipsis) and sets character length to 35
  */
 function stacker_custom_wp_trim_excerpt( $text )
 {

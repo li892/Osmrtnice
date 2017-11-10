@@ -1,0 +1,157 @@
+
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-11 14:40:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: Osmrtnice\n"
+
+#. Description of the plugin/theme
+msgid "Stacker is a Grid-Based theme for showing off your photos and images. Includes a social media links menu to display icons linking to your favourite social media sites. \t\t\tCustomize the colors and amount of columns via the Cutomizer. Download 22 more Free themes and templates at ThemeFurnace : http://themefurnace.com"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Osmrtnice"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pretraži"
+
+#: no-results.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Izgleda da ne možemo pronaći ono što tražite. Možda pretraga može pomoći."
+
+#: no-results.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Žalim, ali nije pronađeno ništa što odgovara vašim kriterijima pretraživanja. Molimo pokušajte ponovno s nekim drugim ključnim riječima."
+
+#: no-results.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Spremni ste za objavu vaše prve objave? <a href=\"%1$s\">Započnite ovdje</a>."
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "Ništa nije pronađeno"
+
+#: search.php:13
+msgid "Search Results for: %s"
+msgstr "Rezultati pretrage za: %s"
+
+#: inc/template-tags.php:154
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:129
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:128
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:124
+msgid "Post navigation"
+msgstr "Navigacija objava"
+
+#: inc/template-tags.php:99
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Novije objave <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:94
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starije objave"
+
+#: inc/template-tags.php:88
+msgid "Posts navigation"
+msgstr "Navigacija za objave"
+
+#: inc/template-tags.php:49
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čeka moderiranje."
+
+#: inc/template-tags.php:41
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s u %2$s"
+
+#: inc/template-tags.php:34
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">kaže:</span>"
+
+#: inc/template-tags.php:24
+msgid "Pingback:"
+msgstr "Povratni ping:"
+
+#: functions.php:100
+msgctxt "Varela font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:18
+msgid "Social"
+msgstr "Društvene mreže"
+
+#: functions.php:16
+msgid "Primary Menu"
+msgstr "Primarni izbornik"
+
+#: footer.php:26
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s od %2$s "
+
+#: content-single.php:26
+msgid "Tags: "
+msgstr "Oznake:"
+
+#: content-page.php:25 content-single.php:23 inc/template-tags.php:24
+#: inc/template-tags.php:44
+msgid "Edit"
+msgstr "Uredi"
+
+#: content-none.php:15
+msgid "It looks like nothing was found at this location. Please try searching for the content"
+msgstr ""
+
+#: content-none.php:10
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni."
+
+#: comments.php:57 comments.php:80
+msgid "Newer Comments &rarr;"
+msgstr "Noviji komentari &rarr;"
+
+#: comments.php:54 comments.php:79
+msgid "&larr; Older Comments"
+msgstr "&larr; Stariji Komentari"
+
+#: comments.php:50 comments.php:76
+msgid "Comment navigation"
+msgstr "Navigacija komentara"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s misao o &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s misli o &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s misli o &ldquo;%2$s&rdquo;"
