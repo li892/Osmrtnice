@@ -1,0 +1,2 @@
+# Osmrtnice
+wordpress theme
