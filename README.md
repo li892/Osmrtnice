@@ -4,9 +4,8 @@
   </a>
 
   <h3 align="center">Osmrtnice.rip</h3>
-
-  <p align="left">Resources :<br><br>
-
+<hr>
+  <p align="left">Resources :<br>
 FontAwesome - http://fortawesome.github.io/Font-Awesome/<br>
 License: Distributed under the GPL <br>http://fortawesome.github.io/Font-Awesome/license/<br>
 Copyright: FontAwesome, http://fortawesome.github.io/Font-Awesome/<br>
