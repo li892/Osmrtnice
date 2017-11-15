@@ -11,5 +11,5 @@ License: Distributed under the GPL <br>http://fortawesome.github.io/Font-Awesome
 Copyright: FontAwesome, http://fortawesome.github.io/Font-Awesome/<br>
 
 Varela Font - https://www.google.com/fonts/specimen/Varela<br>
-Roboto Font - https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&amp;subset=latin-ext</p>
+Roboto Font - https://fonts.google.com/specimen/Roboto</p>
 
