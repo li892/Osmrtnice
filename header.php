@@ -29,6 +29,10 @@
 	   <!-- Favicon-->
     <link rel="shortcut icon" href="<?php bloginfo('template_url'); ?>/img/favicon.ico">
     <link rel="apple-touch-icon" href="<?php bloginfo('template_url'); ?>/img/apple.png">
+
+<link rel="apple-touch-icon" href="<?php bloginfo('template_url'); ?>/img/apple-icon.png" sizes="180x180">
+<link rel="icon" href="<?php bloginfo('template_url'); ?>/img/favicon_32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="<?php bloginfo('template_url'); ?>/img/favicon_16x16.png" sizes="16x16" type="image/png">
 		<!--- google --->
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
