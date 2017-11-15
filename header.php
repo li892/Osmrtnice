@@ -12,8 +12,18 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&amp;subset=latin-ext" rel="stylesheet"> 
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Chrome, Firefox OS and Opera -->
+	 <meta name="theme-color" content="#282828" />
+	 <!-- Windows Phone -->
+	 <meta name="msapplication-navbutton-color" content="#282828" />
+	 <!-- iOS Safari -->
+	 <meta name="apple-mobile-web-app-capable" content="yes">
+	 <metaname="apple-mobile-web-app-status-bar-style"content="black-translucent">
+
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+	<!--media css-->
+	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/media.css">
 	<meta name="google-site-verification" content="jrRSLnejnls5d-VdhARe3OkKWe-h9VqDvW2SLJ5tcFk" />
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	   <!-- Favicon-->
@@ -41,18 +51,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-	<br><center>
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Naslovna stranica – 1 (osmrtnice.rip) -->
-	<ins class="adsbygoogle"
-	     style="display:block"
-	     data-ad-client="ca-pub-2184241449874460"
-	     data-ad-slot="4691491504"
-	     data-ad-format="auto"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script><br></center>
-<div id="cssmenu" class="align-center">
+	<div id="cssmenu" class="align-center">
 	<?php
 	wp_nav_menu( array(
 			'theme_location' => 'primary',
@@ -64,6 +63,17 @@
 	);
 	?>
 </div>
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Naslovna stranica – 1 (osmrtnice.rip) -->
+<ins class="adsbygoogle"
+ style="display:block"
+ data-ad-client="ca-pub-2184241449874460"
+ data-ad-slot="4691491504"
+ data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <div id="header">
 <div id="sitebranding">
 <?php if ( function_exists( 'has_site_logo' ) && has_site_logo() ) : ?>
@@ -83,5 +93,15 @@
 	</div>
     </div><!--End Site Branding -->
 </div>
-
+<!--saric banner --->
+<br><br>
+<div class="saric_728">
+	<a href="https://www.facebook.com/vrtlarija.saric.39?fref=ts" target="_blank">
+<img src="https://osmrtnice.rip/wp-content/uploads/2017/11/saric_728.png"></a>
+</div>
+<div class="saric_300">
+	<a href="https://www.facebook.com/vrtlarija.saric.39?fref=ts" target="_blank">
+<img src="https://osmrtnice.rip/wp-content/uploads/2017/11/saric_300_250.png"></a>
+</div>
+<!-- End saric banner --->
 <!--End Header -->
