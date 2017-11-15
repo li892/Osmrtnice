@@ -19,6 +19,7 @@
 	   <!-- Favicon-->
     <link rel="shortcut icon" href="<?php bloginfo('template_url'); ?>/img/favicon.ico">
     <link rel="apple-touch-icon" href="<?php bloginfo('template_url'); ?>/img/apple.png">
+		<!--- google --->
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-2184241449874460",
@@ -32,6 +33,7 @@
     enable_page_level_ads: true
   });
 </script>
+	<!--- End google --->
 	<?php
 	wp_head();
 	echo stacker_load_homepage_column_count();
@@ -39,6 +41,17 @@
 </head>
 
 <body <?php body_class(); ?>>
+	<br><center>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Naslovna stranica – 1 (osmrtnice.rip) -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-2184241449874460"
+	     data-ad-slot="4691491504"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script><br></center>
 <div id="cssmenu" class="align-center">
 	<?php
 	wp_nav_menu( array(
@@ -69,16 +82,6 @@
 		<?php get_template_part( 'menu', 'social' ); ?>
 	</div>
     </div><!--End Site Branding -->
-</div>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<br><center>
-<!-- Naslovna stranica – 1 (osmrtnice.rip) -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2184241449874460"
-     data-ad-slot="4691491504"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
+</div>
+
 <!--End Header -->
