@@ -101,11 +101,11 @@
 <br><br>
 <div class="saric_728">
 	<a href="https://www.facebook.com/vrtlarija.saric.39?fref=ts" target="_blank">
-<img src="https://osmrtnice.rip/wp-content/uploads/2017/11/saric_728.png"></a>
+<img src="https://osmrtnice.rip/wp-content/uploads/2017/11/saric_728.jpg"></a>
 </div>
 <div class="saric_300">
 	<a href="https://www.facebook.com/vrtlarija.saric.39?fref=ts" target="_blank">
-<img src="https://osmrtnice.rip/wp-content/uploads/2017/11/saric_300_250.png"></a>
+<img src="https://osmrtnice.rip/wp-content/uploads/2017/11/saric_300_250.jpg"></a>
 </div>
 <!-- End saric banner --->
 <!--End Header -->
