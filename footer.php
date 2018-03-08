@@ -10,7 +10,7 @@
 <div id="footer">
 	<div class="wrapper">
 		<center>
-			Copyright © 2017. osmrtnice.rip</center>
+			Copyright © 2018. osmrtnice.rip</center>
 		</div>
 		<div id="footercredits">
 © <a href="http://livideo.info/">livideo 2017 </a> // Made in Livno ♥
