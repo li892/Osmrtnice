@@ -10,16 +10,6 @@
 <div id="footer">
 	<div class="wrapper">
 		<center>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Naslovna stranica – 1 (osmrtnice.rip) -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2184241449874460"
-     data-ad-slot="4691491504"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><br>
 			Copyright © 2017. osmrtnice.rip</center>
 		</div>
 		<div id="footercredits">
