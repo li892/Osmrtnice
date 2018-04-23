@@ -7,6 +7,17 @@
  * @package osmrtnice
  */
 ?>
+<!--perisa banner --->
+<br><br>
+<div class="saric_728">
+	<a href="#" target="_blank">
+<img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_728.jpg"></a>
+</div>
+<div class="saric_300">
+	<a href="#" target="_blank">
+<img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_300_250.jpg"></a>
+</div>
+<!-- End perisa banner --->
 <div id="footer">
 	<div class="wrapper">
 		<center>
