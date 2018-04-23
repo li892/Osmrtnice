@@ -8,7 +8,7 @@
  */
 ?>
 <!--perisa banner --->
-<br><br>
+<center>
 <div class="saric_728">
 	<a href="#" target="_blank">
 <img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_728.jpg"></a>
@@ -16,8 +16,8 @@
 <div class="saric_300">
 	<a href="#" target="_blank">
 <img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_300_250.jpg"></a>
-</div>
-<!-- End perisa banner --->
+</div></center>
+<!-- End perisa banner ---><br>
 <div id="footer">
 	<div class="wrapper">
 		<center>
