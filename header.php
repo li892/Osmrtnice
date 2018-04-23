@@ -6,7 +6,6 @@
  * Displays all of the <head> section and everything up till content wrapper
  * @package osmrtnice
  */
-
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
@@ -20,9 +19,7 @@
 	 <!-- iOS Safari -->
 	 <meta name="apple-mobile-web-app-capable" content="yes">
 	 <metaname="apple-mobile-web-app-status-bar-style"content="black-translucent">
-
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<!--media css-->
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/media.css">
@@ -67,7 +64,6 @@
 	);
 
 	?>
-
 </div>
 <div id="header">
 <div id="sitebranding">
