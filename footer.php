@@ -10,11 +10,11 @@
 <!--perisa banner --->
 <center>
 <div class="saric_728">
-	<a href="#" target="_blank">
+	<a href="https://www.facebook.com/profile.php?id=100011379707037" target="_blank">
 <img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_728.jpg"></a>
 </div>
 <div class="saric_300">
-	<a href="#" target="_blank">
+	<a href="https://www.facebook.com/profile.php?id=100011379707037" target="_blank">
 <img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_300_250.jpg"></a>
 </div></center>
 <!-- End perisa banner ---><br>
