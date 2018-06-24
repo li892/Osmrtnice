@@ -21,6 +21,7 @@
 <div id="footer">
 	<div class="wrapper">
 		<center>
+	
 			Copyright © 2018. osmrtnice.rip</center>
 		</div>
 		<div id="footercredits">

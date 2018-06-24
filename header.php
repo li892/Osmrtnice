@@ -65,7 +65,8 @@
 
 	?>
 </div>
-<div id="header">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<center><div id="header">
 <div id="sitebranding">
 <?php if ( function_exists( 'has_site_logo' ) && has_site_logo() ) : ?>
 	<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
@@ -91,6 +92,6 @@
 <div class="saric_300">
 	<a href="https://www.facebook.com/vrtlarija.saric.39?fref=ts" target="_blank">
 <img src="https://osmrtnice.rip/wp-content/uploads/2017/11/saric_300_250.jpg"></a>
-</div>
+</div></center>
 <!-- End saric banner --->
 <!--End Header -->
