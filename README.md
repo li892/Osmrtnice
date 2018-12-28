@@ -11,5 +11,7 @@ License: Distributed under the GPL <br>http://fortawesome.github.io/Font-Awesome
 Copyright: FontAwesome, http://fortawesome.github.io/Font-Awesome/<br>
 
 Varela Font - https://www.google.com/fonts/specimen/Varela<br>
-Roboto Font - https://fonts.google.com/specimen/Roboto</p>
+Roboto Font - https://fonts.google.com/specimen/Roboto<br>
+Maitree Font -https://fonts.google.com/specimen/Maitree
+</p>
 
