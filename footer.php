@@ -22,10 +22,10 @@
 	<div class="wrapper">
 		<center>
 	
-			Copyright © 2018. osmrtnice.rip</center>
+			Copyright &copy; 2011 – <?php echo date('Y'); ?> osmrtnice.rip</center>
 		</div>
 		<div id="footercredits">
-© <a href="http://livideo.info/">livideo 2017 </a> // Made in Livno ♥
+© <a href="http://livideo.info/">livideo  </a> // Made in Livno ♥
   		</div>
 		<?php wp_footer(); ?>
 	</div>
