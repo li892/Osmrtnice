@@ -22,7 +22,7 @@
 	<div class="wrapper">
 		<center>
 	
-			Copyright &copy; 2011 – <?php echo date('Y'); ?> osmrtnice.rip</center>
+			Copyright &copy; 2015 – <?php echo date('Y'); ?> osmrtnice.rip</center>
 		</div>
 		<div id="footercredits">
 © <a href="http://livideo.info/">livideo  </a> // Made in Livno ♥
