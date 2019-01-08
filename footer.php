@@ -11,11 +11,11 @@
 <center>
 <div class="saric_728">
 	<a href="https://www.facebook.com/profile.php?id=100011379707037" target="_blank">
-<img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_728.jpg"></a>
+<img src="https://osmrtnice.rip/wp-content/uploads/2018/06/PERISA_728_2_2.jpg"></a>
 </div>
 <div class="saric_300">
 	<a href="https://www.facebook.com/profile.php?id=100011379707037" target="_blank">
-<img src="https://osmrtnice.rip/wp-content/uploads/2018/04/PERISA_300_250.jpg"></a>
+<img src="https://osmrtnice.rip/wp-content/uploads/2018/06/PERISA_300_250_22.jpg"></a>
 </div></center>
 <!-- End perisa banner ---><br>
 <div id="footer">
