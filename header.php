@@ -19,6 +19,7 @@
 	<meta name="msapplication-navbutton-color" content="#282828"/>
 	<!-- iOS Safari -->
 	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<!--google font-->
 	<link href="https://fonts.googleapis.com/css?family=Maitree:300,400,500,600,700&amp;subset=latin-ext" rel="stylesheet">
 	<metaname="apple-mobile-web-app-status-bar-style" content="black-translucent">
