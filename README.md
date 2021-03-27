@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://osmrtnice.rip/">
-    <img src="https://osmrtnice.rip/wp-content/themes/osmrtnice_li/img/apple.png" alt="" width=72 height=72>
-  </a>
+
 
   <h3 align="center">Osmrtnice.rip</h3>
 <hr>
